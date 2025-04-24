@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-
+  //after product page when clicked skip - shows error page 404
 
   //Product validation + Error handling with screenshots
 
@@ -36,7 +36,7 @@ test('test', async ({ page }) => {
 
   //any errors caught will return a console log + saved screenshot of the current page
   } catch (e){  
-    await page.screenshot({ path: 'screenshot.png', fullPage: true });
+    // dont work - await page.screenshot({ path: 'screenshot.png', fullPage: true }) changed in config file
     console.log(`Error occurred`)
 
   };

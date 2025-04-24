@@ -28,12 +28,16 @@ export default defineConfig({
     /* Base URL to use in actions like `await page.goto('/')`. */
     // baseURL: 'http://127.0.0.1:3000',
 
-
     //
+
+
+    //sets screenshot to on first failure
+    screenshot: 'on-first-failure',
 
     //changes browser mode to headless
     headless: true,
     
+
   
     //
   
