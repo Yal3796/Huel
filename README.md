@@ -33,7 +33,7 @@ presented in the brief.
 
 ### Other Findings
 
-*Skip results button appeared once at the product recommendation page, after sometime afk. Which then lead to a 404 Error.  Only encountered this once and tried replicating through numerous attempts.
-*Recommendation page Cards - The images shown in the expanded card view through the "Read more" link shows the images used to be either cropped or zoomed in a weird way. Also the expanded cards seems to jolts the main card at certain aspect ratios/window sizes.
 
+* Skip results button appeared once at the product recommendation page, after sometime afk. Which then lead to a 404 Error.  Only encountered this once and tried replicating through numerous attempts.
+* Recommendation page Cards - The images shown in the expanded card view through the "Read more" link shows the images used to be either cropped or zoomed in a weird way. Also the expanded cards seems to jolts the main card at certain aspect ratios/window sizes.
 
